@@ -5,4 +5,4 @@ Hope you enjoy!!
 ### Requirements:
 You will be needing pygame-ce to run this
 **Just run**
-pip install pygame-ce
+```pip install pygame-ce```
