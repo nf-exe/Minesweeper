@@ -27,6 +27,3 @@ def create_grid():
                 
             grid[i][j] = count
     return grid
-
-temp=create_grid()
-print(temp)
